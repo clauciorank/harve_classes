@@ -1,0 +1,65 @@
+[{
+    "id_cliente": 1234,
+    "cliente":"João da Silva",
+    "idade":35,
+    "endereco":{
+       "rua":"Rua das Flores",
+       "numero":123,
+       "cidade":"São Paulo"
+    },
+    "pedidos":[
+       {
+          "id":1,
+          "produto":"Camiseta",
+          "quantidade":2,
+          "preco_unitario":25.00
+       },
+       {
+          "id":2,
+          "produto":"Calça Jeans",
+          "quantidade":1,
+          "preco_unitario":50.00
+       }
+    ],
+    "preferencias":{
+       "cores":[
+          "azul",
+          "verde"
+       ],
+       "tamanho_camiseta":"M"
+    },
+    "observacoes":"Cliente prefere entrega à tarde."
+ },
+ {
+    "id_cliente": 1235,
+    "cliente":"Joab Maria",
+    "idade":39,
+    "endereco":{
+       "rua":"Rua das Arvores",
+       "numero":127,
+       "cidade":"Curitiba"
+    },
+    "pedidos":[
+       {
+          "id":1,
+          "produto":"Bermuda",
+          "quantidade":4,
+          "preco_unitario":75.00
+       },
+       {
+          "id":2,
+          "produto":"Calça Jeans",
+          "quantidade":3,
+          "preco_unitario":150.00
+       }
+    ],
+    "preferencias":{
+       "cores":[
+          "rosa",
+          "verde"
+       ],
+       "tamanho_camiseta":"G"
+    },
+    "observacoes":""
+ }
+ ]

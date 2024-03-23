@@ -1,0 +1,28 @@
+<root>
+  <id_cliente>1234</id_cliente>
+  <cliente>João da Silva</cliente>
+  <idade>35</idade>
+  <endereco>
+    <rua>Rua das Flores</rua>
+    <numero>123</numero>
+    <cidade>São Paulo</cidade>
+  </endereco>
+  <pedidos>
+    <id>1</id>
+    <produto>Camiseta</produto>
+    <quantidade>2</quantidade>
+    <preco_unitario>25.00</preco_unitario>
+  </pedidos>
+  <pedidos>
+    <id>2</id>
+    <produto>Calça Jeans</produto>
+    <quantidade>1</quantidade>
+    <preco_unitario>50.00</preco_unitario>
+  </pedidos>
+  <preferencias>
+    <cores>azul</cores>
+    <cores>verde</cores>
+    <tamanho_camiseta>M</tamanho_camiseta>
+  </preferencias>
+  <observacoes>Cliente prefere entrega à tarde.</observacoes>
+</root>
