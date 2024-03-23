@@ -1,0 +1,39 @@
+{
+  "empresa": "XYZ Corporation",
+  "ano_fundacao": 1995,
+  "funcionarios": [
+    {
+      "nome": "João",
+      "cargo": "Engenheiro de Software",
+      "departamento": "Desenvolvimento",
+      "salario": 8000
+    },
+    {
+      "nome": "Maria",
+      "cargo": "Analista de Marketing",
+      "departamento": "Marketing",
+      "salario": 6000
+    },
+    {
+      "nome": "Pedro",
+      "cargo": "Contador",
+      "departamento": "Finanças",
+      "salario": 7000
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Projeto A",
+      "departamento_responsavel": "Desenvolvimento",
+      "status": "Em andamento",
+      "responsavel": "João"
+    },
+    {
+      "nome": "Projeto B",
+      "departamento_responsavel": "Marketing",
+      "status": "Concluído",
+      "responsavel": "Maria"
+    }
+  ]
+}
+Este J
